@@ -14,7 +14,7 @@ visual studio 2015 express source code attached.
 
 HOW TO TUNNEL ON WINDOWS USING PUTTY
 
-![Alt text](./putty2.PNG?raw=true "Optional Title")
+
 
 ![Alt text](./putty1.PNG?raw=true "Optional Title")
 
