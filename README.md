@@ -1,6 +1,6 @@
-a Windows TRISE Wallet software relying on API calls on remote ARK nodes for commands
+a Windows RISE Wallet software relying on API calls on remote ARK nodes for commands
 
-not just a simple ARK blockchain height checker.
+not just a simple RISE blockchain height checker.
 
 Enjoy it
 
@@ -33,7 +33,7 @@ and has included in exe resources the [Json.NET library](https://github.com/Jame
 
 ### Windows Binary
 
-[download]: <./bin/Release/TRISE.exe?raw=true>
+[download]: <./bin/Release/RISE.exe?raw=true>
 [Download already compiled Windows Binary] [download]
 
 ###  Credits
