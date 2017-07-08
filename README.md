@@ -1,6 +1,6 @@
-a Windows RISE Wallet software relying on API calls on remote RISE nodes for commands
+a Windows TRISE Wallet software relying on API calls on remote ARK nodes for commands
 
-not just a simple RISE blockchain height checker.
+not just a simple ARK blockchain height checker.
 
 Enjoy it
 
@@ -27,13 +27,13 @@ you will find the compiled exe inside the bin/Release folder
 
 ### Installation
 
-RISE requires [Net framework 4.5](https://www.microsoft.com/it-it/download/details.aspx?id=30653) to run.
+TRISE requires [Net framework 4.5](https://www.microsoft.com/it-it/download/details.aspx?id=30653) to run.
 and has included in exe resources the [Json.NET library](https://github.com/JamesNK/Newtonsoft.Json) and [nuGet NBitcoin library](http://www.nuget.org/packages/NBitcoin/)
 (as soon as you run the exe a Newtonsoft.Json.dll and NBitcoin.dll are automatically created in exe folder)
 
 ### Windows Binary
 
-[download]: <./bin/Release/RISE.exe?raw=true>
+[download]: <./bin/Release/TRISE.exe?raw=true>
 [Download already compiled Windows Binary] [download]
 
 ###  Credits

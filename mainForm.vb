@@ -2097,7 +2097,7 @@ fooerror:
 
         On Error Resume Next
         'request3 = DirectCast(WebRequest.Create("http://api.arknode.net:8000/api/loader/status/sync"), HttpWebRequest)
-        request3 = DirectCast(WebRequest.Create("https://wallet.rise.vision/api/loader/status/sync"), HttpWebRequest)
+        request3 = DirectCast(WebRequest.Create("http://127.0.0.1:5555/api/loader/status/sync"), HttpWebRequest)
 
         response3 = DirectCast(request3.GetResponse(), HttpWebResponse)
         reader3 = New StreamReader(response3.GetResponseStream())
