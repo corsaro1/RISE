@@ -18,7 +18,7 @@ Public Class vote
 
 
         If Lisk.RadioButton1.Checked = True Then
-            url1 = "http://127.0.0.1:5555/"
+            url1 = "https://wallet.rise.vision/"
 
         End If
         If Lisk.RadioButton2.Checked = True Then
