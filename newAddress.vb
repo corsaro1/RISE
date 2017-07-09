@@ -33,7 +33,7 @@ Public Class newAddress
         Dim url As String = "http://127.0.0.1:5555/api/transactions"
 
         If Lisk.RadioButton1.Checked = True Then
-            url = "http://127.0.0.1:5555/api/transactions"
+            url = "https://wallet.rise.vision/api/transactions"
 
 
         End If
@@ -248,7 +248,7 @@ fooerror:
 
 
         If Lisk.RadioButton1.Checked = True Then
-            url1 = "http://127.0.0.1:5555/"
+            url1 = "https://wallet.rise.vision/"
 
 
         End If
